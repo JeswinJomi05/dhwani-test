@@ -2,6 +2,8 @@
 
 A responsive Next.js and React frontend recreated from `1.png`.
 
+The refreshed design uses the supplied carnival artwork from `assets/elements`, with a cream, navy, pink, and gold theme. Floating lanterns, music notes, scroll reveals, photo zoom, and button effects respect the system reduced-motion preference. The festival banner also includes an animation pause control.
+
 ## Run locally
 
 ```sh
